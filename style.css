@@ -1,0 +1,40 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #number_of_objects
+{
+font-size: 18px;
+}
+
+canvas
+{
+box-shadow: 10px 10px 10px rgb(0, 251, 255);
+border-radius: 10px;
+margin-top: 30px;
+}
+
+h1{ 
+    font-family: 'Herr Von Muellerhoff';
+ font-size:80px;
+ color:rgb(255, 0, 111);
+     } 
+
+button{ 
+    background-color:#341f97;
+     color: crimson;
+      font-size:30px;
+     }
+
+ h3{
+     color: crimson;
+ }
